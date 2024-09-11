@@ -1,16 +1,16 @@
 ## Hey there! 👋
 
-### I'm a Dev focusing on **NR telecommunications.**
+### I'm a SWE focusing on NR telecommunications.
 
 ### I also stream coding contests.
 
 Checkout:
 
-[CLIST](https://clist.by/coder/sarvajnya_18/)
+</> [CLIST](https://clist.by/coder/sarvajnya_18/)
 
-[YouTube](https://www.youtube.com/@sarvajnya_18)
+🛑LIVE [YouTube](https://www.youtube.com/@sarvajnya_18)
 
-[Connect with me!](https://linktr.ee/sarvajnya_18)
+⚡[Connect with me!](https://linktr.ee/sarvajnya_18)
 
 
 
