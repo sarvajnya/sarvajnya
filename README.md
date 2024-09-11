@@ -4,6 +4,10 @@
 
 ### I also stream coding contests.
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=sarvajnya&color=brightgreen" alt="watching_count" />
+ </p>
+
 Checkout:
 
 </> [CLIST](https://clist.by/coder/sarvajnya_18/)
