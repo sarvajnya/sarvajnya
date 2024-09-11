@@ -8,7 +8,9 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sarvajnya&color=orange" alt="watching_count" />
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvajnya&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </p>
  
 
