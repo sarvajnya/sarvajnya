@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there! 👋
+#### I'm a Dev focusing on NR telecommunications. I love doing CP.
+
+Checkout my profiles:
+![CLIST](https://www.google.com/imgres?q=clist&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2Fd91JkGzJWYNnyMBZlArlMHpba6KOUKdaR1bIksAHkm-U8eAVmM7asEoS891n1IZEXkUd%3Dw240-h480-rw&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.hanafedeil.clist.by%26hl%3Den_US&docid=FhKY2W4qOeHYAM&tbnid=RA3gSlGETPm4OM&vet=12ahUKEwjd37j5qruIAxWFR2wGHcQdHVEQM3oECGcQAA..i&w=240&h=240&hcb=2&ved=2ahUKEwjd37j5qruIAxWFR2wGHcQdHVEQM3oECGcQAA) : [sarvajnya_18](clist.by/sarvajnya_18)
 
 <!--
 **sarvajnya/sarvajnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
