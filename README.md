@@ -1,9 +1,18 @@
 ## Hey there! 👋
-### I'm a Dev focusing on NR telecommunications. I love doing CP.
 
-Checkout my profiles:
+### I'm a Dev focusing on **NR telecommunications.**
 
-CP: [sarvajnya_18](https://clist.by/coder/sarvajnya_18/)
+### I also stream coding contests.
+
+Checkout:
+
+[CLIST](https://clist.by/coder/sarvajnya_18/)
+
+[YouTube](https://www.youtube.com/@sarvajnya_18)
+
+[Connect with me!](https://linktr.ee/sarvajnya_18)
+
+
 
 <!--
 **sarvajnya/sarvajnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
