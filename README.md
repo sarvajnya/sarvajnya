@@ -7,7 +7,9 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sarvajnya&color=orange" alt="watching_count" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarvajnya)](https://github.com/anuraghazra/github-readme-stats)
  </p>
+ 
 
 
 Checkout:
