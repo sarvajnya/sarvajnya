@@ -15,7 +15,7 @@
  
 
 
-Checkout:
+Checkout <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px />:
 
 </> [CLIST](https://clist.by/coder/sarvajnya_18/)
 
