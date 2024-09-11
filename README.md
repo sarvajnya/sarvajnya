@@ -1,7 +1,8 @@
 ## Hey there! 👋
-#### I'm a Dev focusing on NR telecommunications. I love doing CP.
+### I'm a Dev focusing on NR telecommunications. I love doing CP.
 
 Checkout my profiles:
+
 CP: [sarvajnya_18](https://clist.by/coder/sarvajnya_18/)
 
 <!--
