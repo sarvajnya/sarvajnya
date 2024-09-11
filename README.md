@@ -6,7 +6,7 @@
 
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=sarvajnya&color=lightblue" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=sarvajnya&color=darkblue" alt="watching_count" />
  </p>
 
 
