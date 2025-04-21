@@ -1,8 +1,6 @@
 ## Hey there! 👋
 
-### I'm a SWE focusing on NR telecommunications.
-
-### I also stream coding contests.
+### I'm a SWE focusing on NR (Physical Layer). I also stream global coding contests.
 
 
 <p align="left"> 
