@@ -1,4 +1,4 @@
-### Software Engineer specializing in 5G NR (Physical Layer), casually streaming global coding contests.
+### CSE Gold Medalist. Software Engineer specializing in 5G NR (Physical Layer). Casually streaming global coding contests.
 
 
 <p align="left"> 
