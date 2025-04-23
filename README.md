@@ -1,6 +1,4 @@
-## Hey there! 👋
-
-### I'm a SWE focusing on NR (Physical Layer). I also stream global coding contests.
+### I'm a Software Engineer focusing on 5G NR (Physical Layer). I also stream global coding contests.
 
 
 <p align="left"> 
