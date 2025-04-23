@@ -1,4 +1,4 @@
-### I'm a Software Engineer focusing on 5G NR (Physical Layer). I also stream global coding contests.
+### Software Engineer specializing in 5G NR (Physical Layer), casually streaming global coding contests.
 
 
 <p align="left"> 
