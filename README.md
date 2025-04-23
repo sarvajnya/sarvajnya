@@ -1,5 +1,7 @@
 ### CSE Gold Medalist. Software Engineer specializing in 5G NR (Physical Layer). Casually streaming global coding contests.
 
+[CLIST](https://clist.by/coder/sarvajnya_18/)
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sarvajnya&color=orange" alt="watching_count" />
@@ -11,16 +13,6 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvajnya&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </p>
- 
-
-
-Checkout <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px />:
-
-</> [CLIST](https://clist.by/coder/sarvajnya_18/)
-
-🛑LIVE [YouTube](https://www.youtube.com/@sarvajnya_18)
-
-⚡[Connect with me!](https://linktr.ee/sarvajnya_18)
 
 <hr>
 
