@@ -4,7 +4,7 @@
 
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=sarvajnya&color=orange" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=sarvajnya&color=blueviolet&style=for-the-badge" alt="watching_count" />
  </p>
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=radical)
