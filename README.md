@@ -1,21 +1,15 @@
 ### CSE Gold Medalist. Software Engineer specializing in 5G NR (Physical Layer). Casually streaming global coding contests.
 
-[CLIST](https://clist.by/coder/sarvajnya_18/)
-
-
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sarvajnya&color=blueviolet&style=for-the-badge" alt="watching_count" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sarvajnya&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarvajnya&theme=highcontrast)](https://git.io/streak-stats)             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvajnya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  </p>
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=blue-green&hide_title=true&hide_rank=true&include_all_commits=true)
 
-<p align="right"> 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvajnya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 <!--
 **sarvajnya/sarvajnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
