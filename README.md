@@ -7,7 +7,7 @@
  
  </p>
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=blue-green&hide_title=true&hide_rank=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&include_all_commits=true&show_icons=true&theme=blue-green&hide_title=true&hide_rank=true)
 
 
 <!--
