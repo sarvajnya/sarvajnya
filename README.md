@@ -5,6 +5,9 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sarvajnya&color=blueviolet&style=for-the-badge" alt="watching_count" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarvajnya&theme=highcontrast)](https://git.io/streak-stats)
+ 
  </p>
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=radical)
