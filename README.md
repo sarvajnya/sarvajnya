@@ -10,7 +10,7 @@
  
  </p>
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvajnya&show_icons=true&theme=radical&hide_title=true)
 
 <p align="right"> 
  
