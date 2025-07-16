@@ -1,4 +1,4 @@
-### CSE Gold Medalist. Software Engineer specializing in 5G NR (Physical Layer). Casually streaming global coding contests.
+### Software Engineer
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sarvajnya&color=blueviolet&style=for-the-badge" alt="watching_count" />
